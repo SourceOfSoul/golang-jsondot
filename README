@@ -1,6 +1,6 @@
-jsondot is utility to easy use json.
+jsondot is an utility to easily access json data. you can use it with 'A dot B dot C' liked syntax. 
 
-we assume have a json data like below:
+test data:
 
 `{
 	"name": "Bill",
@@ -24,8 +24,8 @@ we assume have a json data like below:
 	}
 }`
 
-
-you can test jsondot like:
+test code is in `jsondot_test.go`
+test results:
 
 $go test -v -test.run Test_GetValue
 === RUN   Test_GetValue
@@ -95,4 +95,4 @@ $go test -v -test.run Test_SetNumberArray
 PASS
 ok      jsondot 0.375s
 
-
+Thanks for using.  Good luck !
