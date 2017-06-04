@@ -141,5 +141,5 @@ func Test_SetNumberArray(t *testing.T) {
 
 	t.Log("after Set: lucknum=>", dot.GetNumberArray("lucknum"))
 
-	t.Log("Test_SetStringArray success!")
+	t.Log("Test_SetNumberArray success!")
 }
