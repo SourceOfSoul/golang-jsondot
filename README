@@ -1,4 +1,4 @@
-jsondot is an utility to easily access json data. you can use it with 'A dot B dot C' liked syntax. 
+jsondot is an utility to easily access json data in golang. you can use it with 'A dot B dot C' liked syntax. 
 
 test data:
 
